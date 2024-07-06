@@ -1,2 +1,2 @@
 # site
-The main site for Mosaic
+The main site for Synergy
