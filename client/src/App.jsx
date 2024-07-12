@@ -9,6 +9,7 @@ function App() {
     return <>
         <React.Suspense>
             <AppNavigation />
+            <br/><br/>
             <Container>
                 <RouterProvider router={Router} />
             </Container>
